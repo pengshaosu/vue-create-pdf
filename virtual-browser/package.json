@@ -1,0 +1,16 @@
+{
+  "name": "virtual-browser",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cross-env PORT=3001 PDF_BASE_URL=http://localhost:3000 node --max_old_space_size=10240 ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "cross-env": "^5.2.0",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "morgan": "~1.9.0",
+    "puppeteer": "^1.7.0"
+  }
+}
