@@ -9,4 +9,4 @@ demo项目在慢慢制作中 请稍等
 
 
 # 时序图
-![Image text](https://raw.githubusercontent.com/JannsenYang/vue-create-pdf/images/sequence-diagram.png)
+![Image text](https://raw.githubusercontent.com/JannsenYang/vue-create-pdf/master/images/sequence-diagram.png)
